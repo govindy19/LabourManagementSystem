@@ -1,6 +1,6 @@
 .loginPage {
-    background: url('Images/bg-image.gif');
-    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("Images/bg-image.gif");
+    background: url('/public/Images/bg-image.gif');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("/public/Images/bg-image.gif");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 120%;
